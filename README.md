@@ -2,7 +2,7 @@
 
 Este projeto foi realizado em dupla pelos alunos:
 ```
- Vincent Van Santen Von Biveniczko Tomio - GRR20206365
+ Vincent Tomio - GRR20206365
  Yan Oliveira da Costa - GRR20204095
 ```
 
